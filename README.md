@@ -68,6 +68,6 @@ YANDEX_SA_KEY_FILE=authorized_key.json
 👩‍💻 Автор
 
 Anna Lazar
-Telegram: @your_username
+Telegram: @@Lazar_Ani
 2026
 
